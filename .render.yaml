@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dota-roulette
+    env: node
+    rootDirectory: /
+    buildCommand: npm install
+    startCommand: node server/app.js
+    branch: main
+    autoDeploy: true
