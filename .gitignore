@@ -1,12 +1,5 @@
-# Папки
 node_modules/
+database.sqlite
 .idea/
-__pycache__
-env/
-
-# Файлы
-*.log
-*.sqlite
 .env
-.DS_Store
-Thumbs.db
+*.log
