@@ -1,0 +1,12 @@
+# Папки
+node_modules/
+.idea/
+__pycache__
+env/
+
+# Файлы
+*.log
+*.sqlite
+.env
+.DS_Store
+Thumbs.db
