@@ -3,3 +3,4 @@ database.sqlite
 .idea/
 .env
 *.log
+/sessions
